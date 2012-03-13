@@ -3,6 +3,9 @@
 " Damien Ferrand
 "
 
+" Pathogen setup
+call pathogen#infect()
+
 " Basic settings
 syntax on
 set nocompatible
